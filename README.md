@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dlkhwaz</h1>
-<h3 align="center">A passionate UI/UX Designer & Front-end developer</h3>
+<h3 align="center">BSc in Software Engineering with a deep passion for creating innovative and efficient software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlkhwazothman&label=Profile%20views&color=0e75b6&style=flat" alt="dlkhwazothman" /> </p>
 
