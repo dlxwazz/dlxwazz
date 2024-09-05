@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Software Designing**
+- 💬 Ask me about **Software Designing & Software Solutions**
 
 - 📫 How to reach me **Dlkhwazothmanse@gmail.com**
 
